@@ -1,2 +1,2 @@
-# ctool
-Utility for windows 7 and 10!
+# ctool+
+Another useless software that can show information about your computer!
